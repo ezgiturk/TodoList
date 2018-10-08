@@ -1,0 +1,9 @@
+.N-header {
+    background-color: lavenderblush;
+    box-shadow: 3px 0 15px rgba(0,0,0,0.3);
+
+}
+
+.header.navbar-brand {
+    color: cornflowerblue;
+}
